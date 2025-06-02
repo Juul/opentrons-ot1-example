@@ -1,6 +1,8 @@
 
 This is a work in progress example app for the OpenTrons OT1 liquid handling robot with instructions for how to get it working on modern Linux. Tested on Debian 12.9.0 Bookworm.
 
+WORK IN PROGRESS, NOT YET TESTED!
+
 # Setup
 
 ```
